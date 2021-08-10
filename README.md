@@ -34,7 +34,7 @@ You have a basic understanding of HTML,CSS,Git and Github.
 ## Authors
 
 - GitHub: [@githubhandle](https://github.com/Hector096)
-- Twitter: [@twitterhandle](https://www.linkedin.com/in/vishal-verma-9191b8126/)
+- Linkedin: [@twitterhandle](https://www.linkedin.com/in/vishal-verma-9191b8126/)
 
 
 
